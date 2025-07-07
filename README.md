@@ -1,7 +1,6 @@
 
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 𝐈'𝐦 Buddhi👋</h2>
 
-<p><em>Software Engineer at <a href="https://www.virtusa.com/">Virtusa</a>
 
 [![Linkedin](https://img.shields.io/badge/-DananjayaSudasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
 [![GitHub](https://img.shields.io/github/followers/dsudasinghe?label=follow&style=social)](https://github.com/dsudasinghe)
@@ -10,7 +9,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
   
  ```javascript
-const lahiruDananjaya = {
+const Buddhi = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS, C#, C++, Python, Java],
     tools: [React, Node, ExpressJS, Bootstrap, Material-UI, Firebase, MongoDB],
